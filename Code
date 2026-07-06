@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thripuravaram Madhulika | Portfolio</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<script src="https://kit.fontawesome.com/your-fontawesome-kit.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+<header id="header">
+
+<nav>
+
+<h2 class="logo">Madhulika</h2>
+
+<ul id="menu">
+
+<li><a href="#home">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#education">Education</a></li>
+
+<li><a href="#skills">Skills</a></li>
+
+<li><a href="#projects">Projects</a></li>
+
+<li><a href="#certificates">Certificates</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+<div class="theme">
+🌙
+</div>
+
+</nav>
+
+</header>
+
+<section id="home">
+
+<div class="content">
+
+<h3>Hello, I'm</h3>
+
+<h1>Thripuravaram Madhulika</h1>
+
+<h2><span id="typing"></span></h2>
+
+<p>
+
+Passionate Web Developer dedicated to building modern,
+
+responsive and user-friendly websites.
+
+</p>
+
+<div class="buttons">
+
+<a href="#contact">Hire Me</a>
+
+<a href="#">Download Resume</a>
+
+</div>
+
+</div>
+
+<div class="image">
+
+<img src="profile.jpg" alt="Profile">
+
+</div>
+
+</section>
+
+<section id="about">
+
+<h2 class="title">About Me</h2>
+
+<div class="about-box">
+
+<p>
+
+I'm pursuing B.Tech in Computer Science & Engineering at
+
+SV College of Engineering, Kadapa.
+
+I love creating responsive websites using HTML, CSS,
+
+JavaScript and continuously improving my development skills.
+
+</p>
+
+</div>
+
+</section>
+
+<section id="education">
+
+<h2 class="title">Education</h2>
+
+<div class="timeline">
+
+<div class="card">
+
+<h3>B.Tech CSE</h3>
+
+<p>SV College of Engineering</p>
+
+<span>2023 - 2027</span>
+
+<h4>81%</h4>
+
+</div>
+
+<div class="card">
+
+<h3>Intermediate</h3>
+
+<p>M.P.C Govt Junior College</p>
+
+<span>2021 - 2023</span>
+
+<h4>87.3%</h4>
+
+</div>
+
+<div class="card">
+
+<h3>SSC</h3>
+
+<p>Y.R.Z.P Girls High School</p>
+
+<span>2021</span>
+
+<h4>93.1%</h4>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="skills">
+
+<h2 class="title">Technical Skills</h2>
+
+<div class="skill">
+
+<p>HTML</p>
+
+<div class="bar"><span class="html"></span></div>
+
+<p>CSS</p>
+
+<div class="bar"><span class="css"></span></div>
+
+<p>JavaScript</p>
+
+<div class="bar"><span class="js"></span></div>
+
+<p>C</p>
+
+<div class="bar"><span class="c"></span></div>
+
+<p>Java</p>
+
+<div class="bar"><span class="java"></span></div>
+
+<p>Python</p>
+
+<div class="bar"><span class="python"></span></div>
+
+</div>
+
+</section>
+
+<section id="projects">
+
+<h2 class="title">Projects</h2>
+
+<div class="project-container">
+
+<div class="project">
+
+<h3>Job Application System</h3>
+
+<p>
+
+Web-based system to manage job postings and applications.
+
+</p>
+
+</div>
+
+<div class="project">
+
+<h3>Quiz Application</h3>
+
+<p>
+
+Interactive quiz application with score evaluation.
+
+</p>
+
+</div>
+
+<div class="project">
+
+<h3>Portfolio Website</h3>
+
+<p>
+
+Personal portfolio showcasing projects and skills.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="certificates">
+
+<h2 class="title">Certifications</h2>
+
+<div class="certificate">
+
+<div class="cert">
+
+HTML5 - Infosys Springboard
+
+</div>
+
+<div class="cert">
+
+CSS3 - Infosys Springboard
+
+</div>
+
+<div class="cert">
+
+JavaScript - Infosys Springboard
+
+</div>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2 class="title">Contact Me</h2>
+
+<form>
+
+<input type="text" placeholder="Your Name">
+
+<input type="email" placeholder="Your Email">
+
+<textarea placeholder="Your Message"></textarea>
+
+<button>Send</button>
+
+</form>
+
+<div class="info">
+
+<p>Email : thripuravarammadhulika31@gmail.com</p>
+
+<p>Phone : 8074050604</p>
+
+<p>Kadapa, Andhra Pradesh</p>
+
+<p>LinkedIn :
+linkedin.com/in/madhulika-thripuravaram-59270232b</p>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 Thripuravaram Madhulika | All Rights Reserved
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
