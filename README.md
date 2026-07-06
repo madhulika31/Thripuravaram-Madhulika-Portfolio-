@@ -35,7 +35,7 @@ Portfolio/
 ├── code.html
 ├── style.css
 ├── script.js
-├── Thripuravaram Madhulika profile.jpg
+├── Thripuravaram Madhulika photo.pdf
 ├── Thripuravaram_Madhulika_Redume.pdf
 └── README.md
 ```
