@@ -1,7 +1,7 @@
 # Thripuravaram-Madhulika-Portfolio-
 Describing myself self-achievements and self-information in website manner.
 
-
+#Deployed Url:https://6a4b6fe83916d30470d6f10e--thripuravarammadhulikaportfolio.netlify.app/
 
 
 # 🌐 Personal Portfolio Website
